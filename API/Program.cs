@@ -20,6 +20,7 @@ namespace API
             using (var scope = host.Services.CreateScope())
             {
            // Получение услуг (service)
+
                 var services = scope.ServiceProvider;
                 var loggerFactory = services.GetRequiredService<ILoggerFactory>();
 
@@ -45,7 +46,7 @@ namespace API
             host.Run();
         }
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
+         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {

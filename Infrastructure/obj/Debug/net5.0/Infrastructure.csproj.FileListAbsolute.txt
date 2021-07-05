@@ -13,3 +13,7 @@
 /Users/medya/Documents/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
 /Users/medya/Documents/skinet/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
 /Users/medya/Documents/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/medya/Documents/skinet/Infrastructure/bin/Debug/net5.0/Data/SeedData/brands.json
+/Users/medya/Documents/skinet/Infrastructure/bin/Debug/net5.0/Data/SeedData/delivery.json
+/Users/medya/Documents/skinet/Infrastructure/bin/Debug/net5.0/Data/SeedData/products.json
+/Users/medya/Documents/skinet/Infrastructure/bin/Debug/net5.0/Data/SeedData/types.json
