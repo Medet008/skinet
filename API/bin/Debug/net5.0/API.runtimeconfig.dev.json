@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/medya/.dotnet/store/|arch|/|tfm|",
+      "/Users/medya/.nuget/packages"
+    ]
+  }
+}
